@@ -1,0 +1,15 @@
+[submodule "proto"]
+	path = proto
+	url = https://github.com/incendio-ideas/proto.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/incendio-ideas/infra.git
+[submodule "auth"]
+	path = auth
+	url = https://github.com/incendio-ideas/auth.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/incendio-ideas/api-gateway.git
+[submodule "web"]
+	path = web
+	url = https://github.com/incendio-ideas/web.git
